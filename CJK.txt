@@ -34,6 +34,7 @@
 "filterable": 0,
 "ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jpys.json"
 },
+{"key":"csp_XBiubiubiubiu_口袋影院","name":"口袋(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"},
 {"key":"csp_biubiu_喜鹊视频","name":"喜鹊视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/MeowXB/喜鹊视频.json"},
 {"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/MeowXB/瓜皮TV.json"},
 {"key":"csp_biubiu_荣耀Glory","name":"荣耀Glory(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/MeowXB/荣耀Glory.json"},
