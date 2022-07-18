@@ -1,13 +1,13 @@
 //首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。
 {"Home": [
-{"key":"APP","title":"主页","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"网页","title":"自定","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"采集","title":"采集","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"直播","title":"直播","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"历史","title":"历史","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"收藏","title":"收藏","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"推送","title":"推送","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"轮播","title":"轮播","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"}
+{"key":"APP","title":"主页","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/TSZS/beijing1.jpg"},
+{"key":"网页","title":"自定","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/TSZS/beijing1.jpg"},
+{"key":"采集","title":"采集","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/TSZS/beijing1.jpg"},
+{"key":"直播","title":"直播","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/TSZS/beijing1.jpg"},
+{"key":"历史","title":"历史","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/TSZS/beijing1.jpg"},
+{"key":"收藏","title":"收藏","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/TSZS/beijing1.jpg"},
+{"key":"推送","title":"推送","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/TSZS/beijing1.jpg"},
+{"key":"轮播","title":"轮播","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/TSZS/beijing1.jpg"}
 ],
 
 
