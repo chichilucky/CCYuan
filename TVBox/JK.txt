@@ -4,7 +4,7 @@
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/lezhutv.json"},
 {"key":"csp_xpath___在线之家","name":"在线之家(XP)","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/zxzj.json"},
 {"key":"csp_xpath_网络搜集库huaya","name":"虎牙🎤","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/huya.js"},
-{"key":"csp_xpath_网络搜集库qiumi","name":"球迷🏀","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/516-qiumi.js"},
+{"key":"csp_xpath_网络搜集库qiumi","name":"球迷🏀","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/TVBox/JRS.txt"},
 {"key":"csp_xpath_A33","name":"MTV🎸","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/mtv"},
 {"key":"csp_Kuaikan","name":"快看🐞","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Blixs","name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
