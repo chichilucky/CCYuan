@@ -1,15 +1,14 @@
 //首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。
 {"Home": [
-{"key":"APP","title":"主页","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"网页","title":"自定","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"采集","title":"采集","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"直播","title":"直播","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"历史","title":"历史","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"收藏","title":"收藏","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"推送","title":"推送","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
-{"key":"轮播","title":"轮播","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"}
+{"key":"APP","title":"主页","pic":"http://520qy.vaiwan.cn/img/1280_800_2725.jpg"},
+{"key":"网页","title":"自定","pic":"http://520qy.vaiwan.cn/img/1366_768_5047.jpg"},
+{"key":"采集","title":"采集","pic":"http://520qy.vaiwan.cn/img/读书喵.jpg"},
+{"key":"直播","title":"直播","pic":"http://520qy.vaiwan.cn/img/花瓶喵.jpg"},
+{"key":"历史","title":"历史","pic":"http://520qy.vaiwan.cn/img/666.png"},
+{"key":"收藏","title":"收藏","pic":"http://520qy.vaiwan.cn/img/就是喜欢.jpg"},
+{"key":"推送","title":"推送","pic":"http://520qy.vaiwan.cn/img/迢迢牵牛星，皎皎河汉女，纤纤擢素手，札札弄机杼。.jpg"},
+{"key":"轮播","title":"轮播","pic":"http://520qy.vaiwan.cn/img/1280_800_2761.jpg"}
 ],
-
 
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
