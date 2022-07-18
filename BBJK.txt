@@ -180,7 +180,7 @@
 "bfyjiequqian": "空",
 "bfyjiequhou": "空",
 "bfyjiequshuzuqian": "<li>",
-"bfyjiequshuzuhou": "<li>",
+"bfyjiequshuzuhou": "</li>",
 "bfbiaotiqian": "\">",
 "bfbiaotihou": "</a>",
 "bflianjieqian": "href=\"",
