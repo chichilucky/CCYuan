@@ -1,18 +1,17 @@
 //首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。
 {"Home": [
-{"key":"APP","title":"主页","pic":"http://520qy.vaiwan.cn/img/1280_800_2725.jpg"},
-{"key":"网页","title":"自定","pic":"http://520qy.vaiwan.cn/img/1366_768_5047.jpg"},
-{"key":"采集","title":"采集","pic":"http://520qy.vaiwan.cn/img/读书喵.jpg"},
-{"key":"直播","title":"直播","pic":"http://520qy.vaiwan.cn/img/花瓶喵.jpg"},
-{"key":"历史","title":"历史","pic":"http://520qy.vaiwan.cn/img/666.png"},
-{"key":"收藏","title":"收藏","pic":"http://520qy.vaiwan.cn/img/就是喜欢.jpg"},
-{"key":"推送","title":"推送","pic":"http://520qy.vaiwan.cn/img/迢迢牵牛星，皎皎河汉女，纤纤擢素手，札札弄机杼。.jpg"},
-{"key":"轮播","title":"轮播","pic":"http://520qy.vaiwan.cn/img/1280_800_2761.jpg"}
+{"key":"APP","title":"主页","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
+{"key":"网页","title":"自定","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
+{"key":"采集","title":"采集","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
+{"key":"直播","title":"直播","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
+{"key":"历史","title":"历史","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
+{"key":"收藏","title":"收藏","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
+{"key":"推送","title":"推送","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"},
+{"key":"轮播","title":"轮播","pic":"https://raw.githubusercontent.com/chichilucky/CCYuan/main/shenhai.jpg"}
 ],
 
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-
 {"name":"❤开尔影院","url":"https://appx.uy07.com/api.php/v1.vod"},
 {"name":"📹️展宁秒播","url":"http://mkk.gotka.top/api.php/v1.vod"},
 {"name":"📹️万能影院","url":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
@@ -179,9 +178,6 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
 "bflianjiehou": ",",
 "bfqianzhui": "?p="},
 
-
-
- 
  { "name": "❤哔哩游戏",
   "User": "空",
   "url": "http://live.yj1211.work/api/live/getRecommendByPlatform",
@@ -205,9 +201,6 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
  "fubiaotiqian": "\"ownerName\":\"",
  "fubiaotihou": "\""},
  
-
-
-
 {"name": "❤斗鱼",
   "url": "https://www.douyu.com/", //填网站链接
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
@@ -269,10 +262,6 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
   "bflianjieqian": "rid=", //播放剧集链接前关键词
   "bflianjiehou": "\""}, //播放剧集链接后关键词
 
-
-
-
-
 { "name": "❤斗鱼游戏",
   "User": "空",
   "url": "http://live.yj1211.work/api/live/getRecommendByPlatform",
@@ -315,8 +304,6 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
   "ljqianzhui": "http://live.yj1211.work/index/liveRoom?platform=huya&roomId=",
  "fubiaotiqian": "\"ownerName\":\"",
  "fubiaotihou": "\""},
-
-
 
 {"name": "📽️影视工厂",
 "url": "http://www.ysgc.cc",
@@ -374,10 +361,6 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
-
-
-
-
 
 {
 "name": "🐷乐猪影视",
@@ -437,9 +420,6 @@ mv$/x/web-interface/search/type?search_type=video&keyword=mv&duration=3&page=#
 "bfbiaotihou": "</a>",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
-
-
-
 
 {"name": "☀厂长资源",
 "url": "https://qianoo.cn",
