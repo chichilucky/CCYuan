@@ -158,7 +158,7 @@
 "ssjiequshuzuqian": "class=\"vbox\"",
 "ssjiequshuzuhou": "</a>",
 "sstupianqian": "data-original=\"",
-"sstupianhou": "\",
+"sstupianhou": "\"",
 "ssbiaotiqian": "title=\"",
 "ssbiaotihou": "\"",
 "sslianjieqian": "href=\"",
