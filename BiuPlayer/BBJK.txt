@@ -91,7 +91,7 @@
 "beiyongjiexi": "https://nbjx.vip/?url=#https://www.pangujiexi.com/pangu/?url=#https://www.nxflv.com/?url=#http://api.diliktv.xyz/vip/jx.php?url=#http://m2090.com/?url=#https://jx.blbo.cc:4433/?url=#https://jx.parwix.com:4433/player/?url=#https://vipjx.cc/?url=#https://jx.aidouer.net/?url=#https://svip.bljiex.cc/?v=#https://bd.jx.cn/vip/?url=#https://z1.m1907.cn/?jx=#https://vip.2ktvb.com/player/?url=",
 
 //填写电视直播的接口链接
-"dianshizhibo": "https://raw.githubusercontent.com/chichilucky/CCYuan/main/BBJiuZBY.txt",
+"dianshizhibo": "https://raw.githubusercontent.com/chichilucky/CCYuan/main/BiuPlayer/BBZBY.txt",
 
 //填写体育直播的网址链接
 "tiyuzhibo": "https://m.zhibo8.net",
