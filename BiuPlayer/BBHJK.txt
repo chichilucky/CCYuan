@@ -69,7 +69,7 @@
 {"name":"飘花电影","url":"http://www.zzrhgg.com/api.php"},
 {"name":"飞速资源","url":"https://www.feisuzy.com/api.php"},
 {"name":"鱼乐资源","url":"https://api.ylzy1.com/api.php"},
-{"name":"测试","url":"http://107.150.5.146:39000/maccms10-main/api.php"}
+{"name":"测试","url":"http://107.150.5.146:39000/maccms10-main/api.php"},
 {"name":"🈲花🔞","url":"https://apihjzy.com/api.php"},
 {"name":"🈲探🔞","url":"https://apittzy.com/api.php"},
 {"name":"🈲鲨🔞","url":"https://shayuapi.com/api.php"},
