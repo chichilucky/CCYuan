@@ -21,8 +21,7 @@
 {"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/dadagui.json"},
 {"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jubaibai.json"},
 {"key":"csp_appysv2_迪迪","name":"迪迪(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
-{"key": "csp_xpath_网络搜集库qiumi","name": "球迷看球️️️","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
-    {
+{
       "key": "Bili",
       "name": "B站",
       "type": 3,
