@@ -1,6 +1,6 @@
 {
  "spider": "https://wp.wangshi520.com/down.php/fab2cbab0dcc22ca00ea5f654645a214.jar",
-   "lives": [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uY3NzLmxjL2FwaS92My9maWxlL2dldC80NzU0MC83MjAudHh0P3NpZ249NldUMERNWkRvQnowZktTWml2LUgzeFFVZTFvbWhyMjlrdGhWNEFxT1FoNCUzRCUzQTA="]}]}],
+   "lives": [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NoaWNoaWx1Y2t5L0NDWXVhbi9tYWluL1RWQm94L1pCWS50eHQ="]}]}],
    
  "sites": [
 {"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
