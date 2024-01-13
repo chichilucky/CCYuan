@@ -100,6 +100,6 @@ def save_results(results, filename):
 results_shaanxi = process_url(shaanxi)
 save_results(results_shaanxi, "shaanxi.txt")
 
-results_hunan = process_url(hunan)
-save_results(results_hunan, "hunan.txt")
+results_hunan = process_url(liaoning)
+save_results(results_liaoning, "liaoning.txt")
 
